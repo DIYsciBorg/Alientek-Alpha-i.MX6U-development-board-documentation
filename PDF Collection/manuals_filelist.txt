@@ -1,0 +1,27 @@
+ Volume in drive C has no label.
+ Volume Serial Number is CCEE-E0B7
+
+ Directory of C:\Users\e_pre\Dropbox\Alpha_i.MX6U_devboard\Punctual Atom original files\[Punctual Atom] Alpha Linux Development Board (PDF Collection)\manual
+
+12/02/2021  01:52 AM    <DIR>          .
+12/02/2021  01:52 AM    <DIR>          ..
+12/02/2021  01:52 AM               233 manuals
+12/02/2021  01:52 AM                 0 manuals_filelist.txt
+11/25/2021  03:46 AM         3,035,220 [Punctual Atoms] Buildroot User Manual Chinese Version (Punctual Atoms Translation)_V1.0.pdf
+11/25/2021  03:47 AM           572,950 [Punctual Atom] Embedded Linux C code standardization V1.0.pdf
+11/25/2021  03:47 AM         1,492,064 [Punctual Atom] I.MX6U builds Yocto root file system V1.4.pdf
+11/25/2021  03:47 AM         3,092,984 [Punctual Atom] I.MX6U development board file copy and firmware update reference manual V1.2.pdf
+11/25/2021  03:47 AM         6,778,636 [Punctual Atom] I.MX6U factory system Qt cross-compilation environment build V1.6.pdf
+11/25/2021  03:47 AM         5,243,782 [Punctual Atom] I.MX6U Network Environment TFTP&NFS Construction Manual V1.3.1.pdf
+11/25/2021  03:47 AM         1,727,886 [Punctual Atom] I.MX6U Porting Debian File System Reference Manual V1.1.pdf
+11/25/2021  03:47 AM         2,585,272 [Punctual Atom] I.MX6U revises the boot progress bar and kernel logo reference manual V1.0.pdf
+11/25/2021  03:47 AM        10,449,606 [Punctual Atom] i.MX6U users quickly experience V1.9.pdf
+11/25/2021  03:47 AM         1,434,236 ?Punctual Atom?I.MX6U Factory System OpenCV Instructions for Use V1.1.pdf
+11/25/2021  03:46 AM        15,993,690 ?Punctual Atom?I.MX6U FAQ summary V1.3.pdf
+11/25/2021  03:47 AM         2,834,209 ?Punctual Atom?I.MX6U transplants OpenCV V1.3.pdf
+11/25/2021  03:47 AM         5,255,306 ?Punctual Atom?I.MX6U transplants Qt4.8.4 V1.1.pdf
+11/25/2021  03:47 AM         4,869,094 ?Punctual Atom?I.MX6U transplants Qt5.12.9 V1.1.pdf
+11/25/2021  03:47 AM         6,444,266 ?Punctual Atom?I.MX6U Virtual Machine Reference Manual V1.2.1.pdf
+11/25/2021  03:47 AM             2,816 ????.txt
+              18 File(s)     71,812,250 bytes
+               2 Dir(s)  88,794,099,712 bytes free
