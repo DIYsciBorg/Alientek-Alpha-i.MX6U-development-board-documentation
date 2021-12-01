@@ -1,7 +1,7 @@
 # Alientek-Alpha-i.MX6U-development-board-documentation
 Alientek [Punctual Atom] Alpha i.MX6U single board computer development kit documents
 
-The AlienTek【Punctual Atom】【正点原子】development board is a nicely designd and powerful kit. Too bad the wiki forum which hosts the resource files is permanently down (even though all the sales outlets continue to point you to a dead site). I had to install some shady China file server downloader software, and manually copy long url links from a graphic image screenshot. To help others out (as well as to maintain my own document collection), I will host it all here.
+The AlienTek【Punctual Atom】【正点原子】development board is a nicely designd and powerful kit. Too bad the wiki forum (http://www.openedv.com/docs/index.html) which hosts the resource files is permanently(?) down (even though all the sales outlets continue to point you to a dead site). I had to install some shady China file server downloader software, and manually copy long url links from a graphic image screenshot. To help others out (as well as to maintain my own document collection), I will host it all here.
 
 * I make NO claims on the validity of the documentation and files contained. I am not the copywrite owner of any material collected here. I cannot guarantee there are no viruses, pirated materials, secrete coded messages, hidden instructions to blow up your computer, or China military grade bot-nets. Kidding aside; im just trying to make obtaining this information by users of the product easier, safer, and more reliable.*
 
