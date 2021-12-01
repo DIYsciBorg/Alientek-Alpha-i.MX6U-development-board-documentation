@@ -10,4 +10,6 @@ As for the files contained, All are "exactly" as downloaded in the three large z
 2: I have performed rudimentary Google translate on folder and file names to make it a bit easier to find what we are looking for
 3: I have added an archival image of my unit's EMMC as it came from factory. This file does NOT boot from SD as far as I can tell. So it may be effectively useless.
 
-Look to the wiki for more hints, tips and partial translations AS I find them. Feel free to contribute to the wiki and help others get the most out of the board.
+BEWARE : Downloading this repository will take a LONG TIME. It is 7GB. There are 4 zip files split into ~97MB files. The worst of it is the "Basic Information" folder containing a 70 part zip file!
+
+In the future, I will break out each sub folder into a individual zip files, so it will be easier to take just the files you want.
